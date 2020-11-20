@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+    color: #000f08;
+    background-color: #000000;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 3.75em;
+}
+
+h3 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 2.75em;
+}
+
+header img {
+    width: 100%;
+}
+
+.icons-section {
+    background-color: #1e1a13;
+}
+
+.icons-section h1 {
+    padding-top: 5%;
+    padding-bottom: 6%;
+}
+
+.desc-section {
+    padding-right: 15%;
+    padding-left: 15%;
+    display: flex;
+    color: #ffffff;
+}
+
+.desc-section p {
+    text-align: left;
+    font-weight: 300;
+    margin: 8%;
+}
+
+.desc-section img {
+    margin-left: 5%;
+    margin-bottom: 4%;
+    width: 42%;
+    height: 12%;
+}
+
+.icons-section i {
+    color: #ffffff;
+}
+
+.caracteristica {
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.iguanas-img {
+    display: inline-flex;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-left: 8%;
+}
+
+.iguanas-img img {
+    width: 33%;
+    margin: 1%;
+}
+
+.footer {
+    background-color: #1e1a13;
+    vertical-align: middle;
+    padding: 2.5em 18.75em;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 1em;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
